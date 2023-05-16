@@ -5635,7 +5635,7 @@
 
     //! moment.js
 
-    hooks.version = '2.29.4';
+    hooks.version = 'XXX';
 
     setHookCallback(createLocal);
 
